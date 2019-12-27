@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+/p2p.eml
+.classpath
+.project
+.idea
+*.iml
+.settings
+/target
+out
+gen
