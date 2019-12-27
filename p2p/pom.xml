@@ -10,7 +10,7 @@
 		<shiro.version>1.2.4</shiro.version>
 		
 		<!-- spring版本号 -->
-		<spring.version>4.0.2.RELEASE</spring.version>
+		<spring.version>5.2.2.RELEASE</spring.version>
 		<druid.version>1.0.6</druid.version>
 		<kaptcha.version>2.8.0</kaptcha.version>
 		<!-- mybatis版本号 -->
