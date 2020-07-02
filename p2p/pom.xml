@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<mysql.version>8.0.11</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<shiro.version>1.2.4</shiro.version>
 		
 		<!-- spring版本号 -->
