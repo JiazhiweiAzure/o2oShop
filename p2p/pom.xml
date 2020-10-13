@@ -153,7 +153,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 
@@ -179,7 +179,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.11</version>
+			<version>4.13.1</version>
 			<!-- 表示开发的时候引入，发布的时候不会加载此包 -->
 			<scope>test</scope>
 		</dependency>
@@ -376,7 +376,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
         </dependency>
     </dependencies>
 	<!-- 解决JAX-RS (REST Web Services) 2.0 requires Java 1.6 or newer 问题 -->
